@@ -85,6 +85,6 @@ Place this `CONTRIBUTING.md` file in the root directory of your repository. This
 
 If you have questions or need assistance, feel free to:
 - Open an issue in the repository.
-- Contact me via email at ankit.mishra.dev@example.com.
+- Contact me via email at akm.mishra63@example.com, ankiiitmishraaa@gmail.com, flexthecode@gmail.com.
 
 Happy Contributing! 🚀

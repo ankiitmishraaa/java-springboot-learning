@@ -92,7 +92,7 @@ This project is licensed under the [AM License](LICENSE).
 ## Contact
 
 Feel free to reach out if you have any questions or suggestions:
-- **Email**: ankit.mishra.dev@example.com
-- **LinkedIn**: [Ankit Mishra](https://linkedin.com/in/ankitmishra)
+- **Email**: akm.mishra63@example.com, ankiiitmishraaa@gmail.com, flexthecode@gmail.com
+- **LinkedIn**: [Ankit Mishra](https://www.linkedin.com/in/ankit-mishra-/)
 
 Happy Learning! 🚀

@@ -85,7 +85,7 @@ Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [AM License](LICENSE).
 
 ---
 

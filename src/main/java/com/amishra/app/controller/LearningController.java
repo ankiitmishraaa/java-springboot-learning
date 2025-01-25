@@ -12,4 +12,9 @@ public class LearningController {
     public String startLearningSpringboot(){
         return "Started Java with Spring-boot";
     }
+
+    @GetMapping(value = "/finish-learning")
+    public String finishLearning(){
+        return "Finished Learning.";
+    }
 }
